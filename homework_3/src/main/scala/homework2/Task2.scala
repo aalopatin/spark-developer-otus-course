@@ -1,6 +1,5 @@
 package homework2
 
-import homework2.Task1.{factsPath, spark, taxiFactsDF}
 import org.apache.spark.sql.SparkSession
 
 object Task2 extends App {
